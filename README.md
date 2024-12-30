@@ -1,0 +1,6 @@
+# 交易所|区块链交易所|BTC交易所/C2C交易/带机器人/演示版本私聊
+
+数字资产交易平台币币交易C2C交易 自动撮合 有跑行情机器人<br>本店销售源码可对接多种数字资产，区块链，<br>支持多币种形式交易：<br>example.com 2. USDT 3. CNY example.com 5 其他形式的私有币<br>支持场所形式交易：C2C交易 OTC交易 交易 K线交易<br>交付形态包含：PC端，手机移动WAP端，安卓APP，IOSAPP .<br>系统默认4个币种，可以扩展到常规的60多种币，也支持私有币。<br>语言：默认为4种语言，支持多种语言可扩展20多种。<br>安全问题：支持双层加密，通过两种不同的算法数据，来确保数据的“加密”存储，权限和控制。<br>支持钱包服务器的配置与接口对接<br>支持的充值、转入、转出管理<br>模块化开发 支持后期灵活扩展 安全认证 手机 邮箱 谷歌 支付设置 密码管理 安全日志 支持交易 定期释放<br>支持自动锁仓 可自定义锁仓比例和周期<br>支持分红 和结算功能 预留强大的第三方接口 钱包 交易所 商城 聊天 社区等<br>支持 定制服务： 可原创开发，提供快速定制开发服务。<br>声明：此源码为我们团队全自主研发，请不要拿我们这套交易所跟网上的模块化交易所比价，目前有成功运营案例30套，安全性，稳定性算全网靠前。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/YPDxx" style="color: red;">https://mega-file.org/YPDxx</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
